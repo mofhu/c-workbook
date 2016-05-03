@@ -1,2 +1,14 @@
-# c-workbook
-C workbook by Mo Frank Hu
+# C Workbook
+
+C workbook of Mo Frank Hu
+
+~~~c
+#include <stdio.h>
+
+int main()
+{
+    printf("hello, world\n");
+}
+~~~
+
+License: MIT
