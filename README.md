@@ -5,7 +5,7 @@ C workbook of Mo Frank Hu
 ~~~c
 #include <stdio.h>
 
-int main()
+main()
 {
     printf("hello, world\n");
 }
